@@ -1,0 +1,10 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"command": "mkdir -p octofit-tracker/backend octofit-tracker/frontend",
+			"label": "Create initial directory structure",
+			"type": "shell"
+		}
+	]
+}
